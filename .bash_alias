@@ -1,2 +1,8 @@
 alias md='mkdir'
 alias l='ls -la'
+alias ll='ls -lh'
+alias install='sudo apt install'
+alias md='sudo mkdir'
+alias search='dpkg -l|grep'
+alias remove='sudo apt-get remove --purge'
+alias docker='sudo docker'
