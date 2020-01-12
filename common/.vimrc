@@ -12,3 +12,5 @@ set smartcase
 set nocompatible
 map S :w<CR>
 map Q :q<CR>
+set autoindent
+

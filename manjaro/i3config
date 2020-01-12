@@ -45,7 +45,7 @@ floating_modifier $mod
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal
-
+#sdfghjkl;lkjhgfghjkl;lkjh
 bindsym $mod+Return exec deepin-terminal
 #bindsym $mod+Return exec alacritty
 # kill focused window
