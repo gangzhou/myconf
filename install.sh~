@@ -11,3 +11,4 @@ fi
 ln -s $PWD/common/.vimrc ~/.vimrc
 cat common/.bash_alias >> ~/.bashrc &&
 source ~/.bashrc
+
